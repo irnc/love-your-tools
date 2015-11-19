@@ -7,4 +7,8 @@
 - Sublime Text 3
 - bash
 - git
-- DevTools
+- [DevTools](https://github.com/irnc/devtools-by-experiment)
+
+## Tools for JavaScript developers
+
+- https://github.com/irnc/javascript-tools
